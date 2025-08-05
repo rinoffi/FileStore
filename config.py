@@ -1,5 +1,5 @@
-# Don't Remove Credit @CodeFlix_Bots, @rohit_1888
-# Ask Doubt on telegram @CodeflixSupport
+# Don't Remove Credit @Zoro_team_bot, @Thizz_zoro
+# Ask Doubt on telegram @getmediachatbot
 #
 # Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
 #
